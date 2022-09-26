@@ -306,10 +306,8 @@ text-shadow: 2px 2px #FF0000;
         width: 100%;
     }
 
-    .produtos ul {
-        margin: 0 0 0 0;
-        padding: 0 0 0 0;
-        text-align: center;
+    .siteprodutos {
+        text-align: center;   
     }
 
     .produtos li {
