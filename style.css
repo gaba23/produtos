@@ -313,5 +313,6 @@ text-shadow: 2px 2px #FF0000;
     .produtos li {
         display: block;
         width: 80%;
+        margin-bottom: 10px;
     }
 }
